@@ -51,7 +51,7 @@ A snapshot of the final dashboard is available in the `assets` folder.
 
 A short screen-recorded demo video is included to show dashboard interactions like slicers and filters.
 Dashboard demo video posted on LinkedIn:  
-                👉 https://linkedin.com/posts/your-post-link
+                👉 https://www.linkedin.com/posts/kavya-dharshini-s-51b0b232a_futureinterns-futureinternstask2-datascienceandanalytics-activity-7407402760372936704-_cKB?utm_source=share&utm_medium=member_android&rcm=ACoAAFLzq2cBoSfSrPEkxv5BxMGYDCp5Wo-LkCg
 
 🎯 What I Learned
 
