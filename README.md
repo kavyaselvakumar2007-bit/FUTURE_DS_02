@@ -54,6 +54,7 @@ Dashboard demo video posted on LinkedIn:
                 👉 https://linkedin.com/posts/your-post-link
 
 🎯 What I Learned
+
      - Creating meaningful marketing KPIs  
      - Writing DAX measures for CTR, CPC & conversions  
      - Designing clean and professional dashboards  
