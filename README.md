@@ -7,9 +7,9 @@
 
  🔍 What This Dashboard Shows
  
-     📈 Overall ad performance using KPI cards  
-     👀 Total impressions & total clicks  
-     🎯 Click Through Rate (CTR %)  
+    📈 Overall ad performance using KPI cards  
+    👀 Total impressions & total clicks  
+    🎯 Click Through Rate (CTR %)  
     💰 Cost Per Click (CPC)  
     🔄 Cost per conversion  
     📊 Top performing campaigns by conversions  
@@ -50,6 +50,8 @@ A snapshot of the final dashboard is available in the `assets` folder.
 🎥 Demo Video
 
 A short screen-recorded demo video is included to show dashboard interactions like slicers and filters.
+Dashboard demo video posted on LinkedIn:  
+                👉 https://linkedin.com/posts/your-post-link
 
 🎯 What I Learned
      - Creating meaningful marketing KPIs  
