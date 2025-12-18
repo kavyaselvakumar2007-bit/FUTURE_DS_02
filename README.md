@@ -57,12 +57,13 @@ A short screen-recorded demo video is included to show dashboard interactions li
      - Designing clean and professional dashboards  
      - Using slicers for better interactivity  
      - Storytelling using data visuals  
-
+     
+✨ This project reflects my hands-on learning in data analytics and Power BI dashboard design.
 
 👩‍💻 Author
 
           Kavya Dharshini S
           Data science and analytics Intern
-B.Tech – Artificial Intelligence & Data Science  
+          B.Tech – Artificial Intelligence & Data Science  
 
-✨ This project reflects my hands-on learning in data analytics and Power BI dashboard design.
+
