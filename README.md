@@ -2,7 +2,7 @@
 
 ✨ About This Project
 
-                This is a Power BI dashboard built to analyze the performance of Facebook ad campaigns.I created this project as part of my analytics learning journey to understand how ad campaigns perform using      real marketing metrics.
+                This is a Power BI dashboard built to analyze the performance of Facebook ad campaigns.I created this project as part of my analytics learning journey to understand how ad campaigns perform using real marketing metrics.
     The dashboard helps in tracking impressions, clicks, CTR, CPC, spend, and conversions in a clear and visual way.
 
  🔍 What This Dashboard Shows
